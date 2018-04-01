@@ -73,7 +73,6 @@ func (item *POSv1) GetExtraItemsMaterials(bodyMaterials map[string]interface{}) 
 
 		extraItem.AddMaterial("sku", value.Sku)
 		extraItem.AddMaterial("unitPrice", value.UnitPrice)
-		extraItem.AddMaterial("unitPrice", value.UnitPrice)
 		extraItem.AddMaterial("quantity", value.Quantity)
 		extraItem.AddMaterial("totalItemPrice", value.ItemPrice)
 

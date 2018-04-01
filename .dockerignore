@@ -23,4 +23,4 @@ debug
 vendor/
 
 # build linux
-calculator-service
+calculator-echo
