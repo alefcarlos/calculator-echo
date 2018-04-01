@@ -1,8 +1,14 @@
 # Calculadora de modelos em GO
 
-## Utilizando framework Echo
+## Apredizado
 
-Projeto crido com intuito de aprender Echo
+Projeto criado utilizando o framework Echo penasndo no aprendizado.
+
+## Dependêncas
+
+Utilizo o `dep` como gerenciador de pacotes.
+
+>[Baixe](https://github.com/golang/dep/releases) o binário para seu SO no seu $GOROOT/bin
 
 ## Rodar local
 
