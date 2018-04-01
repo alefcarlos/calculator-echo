@@ -8,7 +8,7 @@ Projeto crido com intuito de aprender Echo
 
 ### Rodar usando go run webapi
 ```
-dep init
+dep ensure
 go run src/cmd/webapi/main.go
 ```
 
