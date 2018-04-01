@@ -17,6 +17,8 @@ type Recipe struct {
 
 	//IsExtra indica se essa fórmula é exclusiva para Dotz Extra
 	IsExtra bool `json:"isExtra" `
+
+	UsedMaterials map[string]interface{} `json:"usedMaterials"`
 }
 
 // RecipeByPriority implements sort.Interface for []Recipe based on
